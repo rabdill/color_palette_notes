@@ -24,3 +24,4 @@ Sources:
 * [Colormind](http://colormind.io/)
 * [ColorSpace](https://mycolor.space/)
 * [Paletton](http://paletton.com)
+* [Sessions College Color Calculator](https://www.sessions.edu/color-calculator/)
